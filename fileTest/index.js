@@ -2,6 +2,8 @@
  * Created by 91549_000 on 2016/7/17.
  */
 var http  = require('http');
+var http1  = require('http');
+console.log(http==http1)
 var fs = require('fs');
 var path = require('path');
 console.log(path.resolve('a'));
