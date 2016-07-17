@@ -1,0 +1,6 @@
+
+npm install -g mime
+npm config ls
+npm install mime
+npm adduser
+"license": "MIT"
